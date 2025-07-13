@@ -1,6 +1,6 @@
 # Hi there, I'm Amin Asgharzadeh! 👋
 
-**AI/ML Engineer & Data Scientist** at American Bureau of Shipping | Houston, TX
+**AI/ML Engineer & Senior Data Scientist** at American Bureau of Shipping | Houston, TX
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://amin-asgharzadeh.vercel.app/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6688--4887-green)](https://orcid.org/0000-0002-6688-4887)
@@ -12,15 +12,24 @@ I'm a passionate AI/ML engineer specializing in building intelligent systems and
 
 ## 🔧 Technologies & Tools
 
-**Languages:** Python, TypeScript, JavaScript, HTML/CSS
-
-**AI/ML:** LangChain, Time Series Analysis, Computer Vision, NLP, Agents & Tools
+**Languages:** Python, SQL, TypeScript, JavaScript, HTML/CSS, R
 
 **Frameworks:** Next.js, FastAPI, Streamlit, Jupyter
 
-**Libraries:** Selenium, Pandas, NumPy, Scikit-learn
+**Gen-AI:** Langchain, LlamaIndex, HuggingFace, MCP, Vector stores (Azure AI-Search, Pinecone)
 
-**Tools:** Docker, Git, Vercel, Amazon Chronos
+**Dashboard Development Tools:** Tableau, Dash (Plotly), PowerBI, Streamlit
+
+**Web Application Development Tools:** Flask, FastAPI, React
+
+**Data Science and ML Platforms:** Dataiku, Azure Synapse Analytics
+
+**Agile Project Management Tools:** Agile, Scrum, Azure DevOps, Jira
+
+**Optimization:** Linear, Non-Linear, Integer Programming with CPLEX, Pyomo, GAMS
+
+**CI/CD:** Git, GitHub, Azure DevOps
+
 
 ## 🎯 Featured Projects
 
@@ -47,7 +56,6 @@ Statistical analysis of census data to identify demographic factors affecting in
 - Building intelligent document processing systems
 - Developing AI-powered chatbots and conversational agents
 - Creating tools for data extraction and analysis
-- Exploring cutting-edge ML models for time series forecasting
 
 ## 📊 GitHub Stats
 
@@ -63,4 +71,4 @@ I'm always interested in collaborating on exciting AI/ML projects or discussing 
 
 ---
 
-*"Building the future, one algorithm at a time"* ✨
+✨*"Ad Astra per Aspera"* ✨
